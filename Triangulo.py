@@ -18,3 +18,9 @@ if r1 < r2 + r3 and r2 < r1 + r3 and r3 < r1 + r2:
     print ('\033[1;32;40mSim, podem formar um triângulo!\033[m ')
 else:
     print ('\033[1;31;40mNão, não podem formar um triângulo!\033[m ')
+    
+    #Int: 8, -7, 9 
+	#Float: 4,5 , 5,5 , 3,4
+	#bool: True, False
+	#str: ‘Ola’, ‘7,6’
+    
