@@ -4,7 +4,7 @@ from random import randint
 computador = randint(0, 3) #Faz o computador pensar
 
 print ('-=-' * 20)
-print ('Vou pensar em um nuemro entre 0 e 3, tente advinhar...')
+print ('Vou pensar em um número entre 0 e 3, tente advinhar...')
 print ('-=-' * 20)
 
 jogador = int(input('Em que número eu pensei? '))
