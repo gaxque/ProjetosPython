@@ -29,6 +29,5 @@ else:
 
 
 
-#Colocar cor, treinado até nao esquecer.
-
-#     \033[1;32;40m     !\033[m
+#Colocar cor, treinado até nao esquecer!!!!!
+#     [ \033[1;32;40m ] Começo   [ !\033[m ] Final 
